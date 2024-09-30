@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 30 Sep 2024 11:31:07 at https://admin.pixelstrap.net/admiro/template/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://admin.pixelstrap.net/admiro/template/index.html -O1 "C:\My Web Sites\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/ajax-loader.gif (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick.css)
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/fonts/slick.eot (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick.css)
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/fonts/slick.eot? (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick.css)
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/fonts/slick.woff (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick.css)
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/fonts/slick.ttf (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick.css)
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/fonts/slick.svg (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick.css)
+11:34:51	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/images/ajax-loader.gif (from https://admin.pixelstrap.net/admiro/assets/css/vendors/slick-theme.css)
+11:34:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/admiro/assets/images/product/product-categories/phone.png (from https://admin.pixelstrap.net/admiro/template/list-products.html)
+11:34:54	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/template/invoice-1.html (from https://admin.pixelstrap.net/admiro/template/invoices-1.html)
+11:34:56	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/template/cropped.jpg (from https://admin.pixelstrap.net/admiro/template/image-cropper.html)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/template/sample.pdf (from https://admin.pixelstrap.net/admiro/template/datatable-basic-init.html)
+11:34:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/admiro/assets/images/landing/logo/logo.png (from https://admin.pixelstrap.net/admiro/template/landing-page.html)
+11:34:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/admiro/assets/images/email-template/7.png (from https://admin.pixelstrap.net/admiro/template/template-email.html)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/preloader.gif (from https://admin.pixelstrap.net/admiro/assets/css/vendors/photoswipe.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/vendors/dropzone-spritemap.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/dropzone.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/img/flags.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/intltelinput.min.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/img/flags@2x.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/intltelinput.min.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/images/tree/32px.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/tree.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/images/tree/throbber.gif (from https://admin.pixelstrap.net/admiro/assets/css/vendors/tree.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/css/images/tree/40px.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/tree.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/images/tree/32px.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/tree.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/images/icon-tree.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/tree.css)
+11:34:57	Error: 	"Not Found" (404) at link https://admin.pixelstrap.net/admiro/assets/images/tree-1.png (from https://admin.pixelstrap.net/admiro/assets/css/vendors/tree.css)
+11:34:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://admin.pixelstrap.net/admiro/assets/images/email-template/7.png (from https://admin.pixelstrap.net/admiro/template/template-email.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 50 seconds : 896 links scanned, 871 files written (84957388 bytes overall) [64283654 bytes received at 279494 bytes/sec], 26354582 bytes transferred using HTTP compression in 424 files, ratio 19%, 47.1 requests per connection
+(20 errors, 4 warnings, 0 messages)
